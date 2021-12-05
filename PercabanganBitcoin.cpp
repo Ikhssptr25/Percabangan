@@ -31,6 +31,8 @@ int main (){
 	cout<<"Tipe Ranking : Fish";	
 	} else if (BTC>=100 && BTC<500){
 	cout<<"Tipe Ranking : Dolphin";
+	} else if (BTC>=500 && BTC<1000){
+	cout<<"Tipe Ranking : Shark";
 	} else if (BTC>=1000 && BTC<5000){
 	cout<<"Tipe Ranking : Whale";
 	}else{ 
