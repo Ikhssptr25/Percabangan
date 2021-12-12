@@ -24,7 +24,7 @@ int main (){
 	if(gaji_karyawan<UMR_daerah){
 	cout<<"GAJI ANDA DIBAWAH UMR DAERAH"<<endl;
 	} else if (gaji_karyawan==UMR_daerah){
-	cout<<"GAJI ANDA SETARA UMR DAERAH"<<endl;
+	cout<<"GAJI ANDA SETARA UMR "<<endl;
 	} else {
 	cout<<"GAJI ANDA DIATAS UMR DAERAH"<<endl;
 	}
