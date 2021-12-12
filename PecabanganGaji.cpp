@@ -26,7 +26,7 @@ int main (){
 	} else if (gaji_karyawan==UMR_daerah){
 	cout<<"GAJI ANDA SETARA UMR "<<endl;
 	} else {
-	cout<<"GAJI ANDA DIATAS UMR DAERAH"<<endl;
+	cout<<"GAJI ANDA DIATAS UMR"<<endl;
 	}
 	
 	
