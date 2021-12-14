@@ -4,7 +4,7 @@ int main(){
    string nama;
    int jumlah;
    int lama;
-   int bunga;
+   float bunga;
    
    cout<<"masukan nama   : "; 
    getline(cin, nama);
