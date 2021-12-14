@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
    string nama;
-   double jumlah;
+   int jumlah;
    int lama;
    int bunga;
    
