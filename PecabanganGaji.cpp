@@ -10,7 +10,7 @@ int main (){
    	
 	// deklarasi variabel//
 	float gaji_karyawan;
-	int UMR_daerah ;
+	float UMR_daerah ;
 	
 	//input data
 	cout<<"GAJI KARYAWAN :"; 
