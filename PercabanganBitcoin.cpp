@@ -9,7 +9,7 @@ int main (){
 	  
    	
 	// deklarasi variabel//
-	double BTC;
+	float BTC;
 	
 	
 	//input data
