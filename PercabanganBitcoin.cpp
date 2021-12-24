@@ -18,7 +18,7 @@ int main (){
 	cout<<endl;
 	
 	// percabangan output
-	cout<<" --KETERANGAN BITCOIN-- "<<endl;
+	cout<<" ---KETERANGAN BITCOIN--- "<<endl;
 	cout<<endl;
 	
 	if(BTC<1){
